@@ -32,8 +32,8 @@ public class Selenium {
         WebDriverWait wait;
         List<WebElement> element_solve;
 
-        String user_name = "nam02test"; // mô phỏng tên user
-        String user_password = "Matkhau123"; // mô phỏng password user
+        String user_name = "nam02test"; // mô phỏng tên đăng nhập
+        String user_password = "Matkhau123"; // mô phỏng password đăng nhập
         JavascriptExecutor js;
         WebElement Element_inputText;
         WebElement webElement;
